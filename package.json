@@ -1,0 +1,18 @@
+{
+  "name": "007bmicalculator",
+  "version": "1.0.0",
+  "description": "it is a simple cli bmi calculator.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "007bmicalculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A;liza Abid",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
